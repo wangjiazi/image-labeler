@@ -1,0 +1,14 @@
+{
+  "batch_id": "20250807_013014",
+  "created_time": "2025-08-07T01:30:14.757662",
+  "total_tasks": 4,
+  "total_images": 31773,
+  "task_size": 10000,
+  "shuffled": true,
+  "tasks": [
+    "task_20250807_013014_001.json",
+    "task_20250807_013014_002.json",
+    "task_20250807_013014_003.json",
+    "task_20250807_013014_004.json"
+  ]
+}
